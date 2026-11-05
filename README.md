@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=YasditContreras/MSFP3)
 # Práctica 3: Modelado y control del sistema musculoesquelético
 
 ## Información del estudiante
@@ -317,14 +318,14 @@ Los materiales disponibles contienen el instructivo y el diagrama biológico. No
 
 | Evidencia | Información que debe incorporarse | Estado |
 | --- | --- | --- |
-| Circuito equivalente | Esquema, conexiones y parámetros. | Pendiente. |
-| Desarrollo matemático | Ecuaciones, despejes y funciones de transferencia particulares. | Pendiente. |
-| Estabilidad | Polos del control, del caso y del lazo cerrado. | Pendiente. |
-| Estado estacionario | Entrada empleada, valores finales y error. | Pendiente. |
-| Lazo abierto | Gráficas al impulso para control y caso. | Pendiente. |
-| Sintonización | Ganancias y captura de Tune. | Pendiente. |
-| Lazo cerrado | Comparación del control, caso y caso con PID. | Pendiente. |
-| Verificación cruzada | Comparación entre las implementaciones. | Pendiente. |
+| Circuito equivalente | Esquema, conexiones y parámetros. | Incluido. |
+| Desarrollo matemático | Ecuaciones, despejes y funciones de transferencia particulares. | Incluido. |
+| Estabilidad | Polos del control, del caso y del lazo cerrado. | Incluido. |
+| Estado estacionario | Entrada empleada, valores finales y error. | Incluido. |
+| Lazo abierto | Gráficas al impulso para control y caso. | Incluido.|
+| Sintonización | Ganancias y captura de Tune. | Incluido. |
+| Lazo cerrado | Comparación del control, caso y caso con PID. | Incluido. |
+| Verificación cruzada | Comparación entre las implementaciones. | Incluido. |
 | Diagrama biológico | Imagen e interpretación de sus componentes. | Incluido. |
 
 ## Discusión
