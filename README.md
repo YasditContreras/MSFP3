@@ -1,7 +1,9 @@
-# Práctica 5.5: Modelado y control del sistema musculoesquelético
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=YasditContreras/MSFP3)
+
+# Práctica 3: Modelado y control del sistema musculoesquelético
 
 ## Información del estudiante
-David Esau Cerano Fuentes  \[23210696]; L23210696@tijuana.tecn.mx
+Kenia Yasdit Contreras Jiménez  \[23212188]; L23212188@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -94,27 +96,6 @@ El sistema de retroalimentación incorpora un controlador PID. Las ganancias $k_
 La práctica se realiza exclusivamente mediante experimentación *in silico*, con fines académicos y de simulación; no constituye un tratamiento para la atrofia muscular.
 
 Palabras clave: Sistema musculoesquelético; Analogía fuerza–voltaje; Modelo matemático; Controlador PID; Simulaciones numéricas.
-
-## Imagen del sistema musculoesquelético
-
-<p align="center">
-  <img src="imagenes/sistema_musculoesqueletico.png" alt="Diagrama biológico del sistema musculoesquelético: músculo, tendón, componente viscosa y elasticidad pasiva" width="1000">
-</p>
-
-*Figura 1. Diagrama biológico del sistema musculoesquelético proporcionado para la práctica.*
-
-| Elemento del modelo | Interpretación biológica |
-| --- | --- |
-| $F_0(t)$ | Fuerza generada por el elemento contráctil activo del músculo. |
-| $C_s$ | Compliancia en serie, asociada principalmente a los tendones. |
-| $C_p$ | Compliancia en paralelo, asociada a la elasticidad pasiva del músculo y del tejido conectivo. |
-| $R$ | Componente viscosa del tejido y resistencia interna al movimiento. |
-| $x(t)$ | Desplazamiento total del modelo. |
-| $x_1(t)$ | Desplazamiento del elemento elástico en serie. |
-
-En la imagen también aparece la etiqueta $x_2(t)$; en el instructivo, la deformación relativa del amortiguador se expresa como $x(t)-x_1(t)$.
-
-
 
 ## Desarrollo de la práctica
 
@@ -482,9 +463,7 @@ El diagrama relaciona el elemento contráctil con la generación de fuerza, el t
 
 Es una representación simplificada: cada componente agrupa propiedades de varias estructuras. Por ello, la equivalencia ayuda a interpretar el modelo, pero no describe de manera completa toda la anatomía ni todos los mecanismos de la contracción muscular.
 
-<p align="center">
-  <img src="imagenes/diagrama_pdf-000.png" alt="Diagrama biológico del sistema musculoesquelético: fuerza activa muscular, tendones y componentes viscosos y elásticos" width="1000">
-</p>
+<img width="1024" height="578" alt="image" src="https://github.com/user-attachments/assets/53e5a749-48a9-4550-8033-41b8be4df6cf" />
 
 *Figura 2. Diagrama biológico del sistema musculoesquelético incluido en el PDF.*
 
