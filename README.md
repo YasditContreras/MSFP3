@@ -1,7 +1,7 @@
-# Práctica 5.5: Modelado y control del sistema musculoesquelético
+# Práctica 3: Modelado y control del sistema musculoesquelético
 
 ## Información del estudiante
-David Esau Cerano Fuentes  \[23210696]; L23210696@tijuana.tecn.mx
+Kenia Yasdit Contreras  \[23212188]; L232121886@tijuana.tecnm.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
