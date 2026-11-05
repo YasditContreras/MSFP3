@@ -96,27 +96,6 @@ La práctica se realiza exclusivamente mediante experimentación *in silico*, co
 
 Palabras clave: Sistema musculoesquelético; Analogía fuerza–voltaje; Modelo matemático; Controlador PID; Simulaciones numéricas.
 
-## Imagen del sistema musculoesquelético
-
-<p align="center">
-  <img src="imagenes/sistema_musculoesqueletico.png" alt="Diagrama biológico del sistema musculoesquelético: músculo, tendón, componente viscosa y elasticidad pasiva" width="1000">
-</p>
-
-*Figura 1. Diagrama biológico del sistema musculoesquelético proporcionado para la práctica.*
-
-| Elemento del modelo | Interpretación biológica |
-| --- | --- |
-| $F_0(t)$ | Fuerza generada por el elemento contráctil activo del músculo. |
-| $C_s$ | Compliancia en serie, asociada principalmente a los tendones. |
-| $C_p$ | Compliancia en paralelo, asociada a la elasticidad pasiva del músculo y del tejido conectivo. |
-| $R$ | Componente viscosa del tejido y resistencia interna al movimiento. |
-| $x(t)$ | Desplazamiento total del modelo. |
-| $x_1(t)$ | Desplazamiento del elemento elástico en serie. |
-
-En la imagen también aparece la etiqueta $x_2(t)$; en el instructivo, la deformación relativa del amortiguador se expresa como $x(t)-x_1(t)$.
-
-
-
 ## Desarrollo de la práctica
 
 ### 1. Identificación del modelo mecánico
