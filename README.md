@@ -2,7 +2,7 @@
 # Práctica 3: Modelado y control del sistema musculoesquelético
 
 ## Información del estudiante
-Kenia Yasdit Contreras  \[23212188]; L23212188@tijuana.tecnm.edu.mx
+Kenia Yasdit Contreras  \[23212188]; L23212188@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
