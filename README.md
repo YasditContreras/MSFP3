@@ -481,12 +481,12 @@ Los materiales disponibles contienen el instructivo, los diagramas biológicos y
 | --- | --- | --- |
 | Circuito equivalente | Esquema manuscrito, superposición y parámetros. | Incluido; implementación en Simscape pendiente. |
 | Desarrollo matemático | Ecuaciones, superposición, transformada de Laplace y funciones de transferencia. | Incluido. |
-| Estabilidad | Polos del control, del caso y del lazo cerrado. | Pendiente. |
-| Estado estacionario | Entrada empleada, valores finales y error. | Pendiente. |
-| Lazo abierto | Gráficas al impulso para control y caso. | Pendiente. |
-| Sintonización | Ganancias y captura de Tune. | Pendiente. |
-| Lazo cerrado | Comparación del control, caso y caso con PID. | Pendiente. |
-| Verificación cruzada | Comparación entre las implementaciones. | Pendiente. |
+| Estabilidad | Polos del control, del caso y del lazo cerrado. | Incluido. |
+| Estado estacionario | Entrada empleada, valores finales y error. | Incluido. |
+| Lazo abierto | Gráficas al impulso para control y caso. | Incluido. |
+| Sintonización | Ganancias y captura de Tune. | Incluido. |
+| Lazo cerrado | Comparación del control, caso y caso con PID. | Incluido. |
+| Verificación cruzada | Comparación entre las implementaciones. | Incluido. |
 | Diagrama biológico | Imagen e interpretación de sus componentes. | Incluido. |
 
 ## Discusión
